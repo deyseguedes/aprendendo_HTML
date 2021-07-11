@@ -35,15 +35,17 @@ body{
     }
 
     #rodape{
+        border: 2px solid white;
         background: rgb(2, 134, 243);
         text-align: center;
     }
 
     .tamimg{
-       
+        border: 7px solid rgb(0, 255, 191);
         width: 300px;
-        height: 400px;
-        float: left;
+        height: 300px;
+        margin: 5px;
+        
     }
 
     .fdbras{
